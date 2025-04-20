@@ -41,6 +41,9 @@ This project performs sentiment analysis and exploratory data analysis (EDA) on 
 - A new bucket named `yelpdataanalysis` was created on AWS S3.
 - A folder `yelpreviews` inside the bucket holds all the review data chunks.
 
+![Uploading Screenshot 2025-04-20 at 6.45.30 PM.png…]()
+
+
 ### 3. Snowflake-AWS Integration
 
 - Generated AWS Access and Secret Keys to enable external stage configuration.
@@ -69,8 +72,6 @@ Performed various analyses using SQL, including:
 - Average sentiment scores per location or category
 - Rating vs sentiment correlation
 - Temporal patterns in reviews (monthly/seasonal trends)
-
-Visualizations can be added using Tableau, Power BI, or Python libraries (e.g., matplotlib/seaborn).
 
 ---
 
