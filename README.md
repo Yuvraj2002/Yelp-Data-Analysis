@@ -76,7 +76,15 @@ Performed various analyses using SQL, including:
 ## 🛠️ Tools & Technologies
 
 - **AWS S3** – Cloud storage for raw Yelp dataset
+
+<img width="1668" alt="Screenshot 2025-04-21 at 10 44 10 PM" src="https://github.com/user-attachments/assets/d966e1ef-4563-44e5-b90e-f5691b5f27c5" />
+
+
 - **Snowflake** – Cloud data warehousing and SQL execution
+
+<img width="1668" alt="Screenshot 2025-04-21 at 10 42 52 PM" src="https://github.com/user-attachments/assets/fba85efb-dfef-472e-878b-afb9b81488ac" />
+
+
 - **Python UDFs** – Used for sentiment analysis
 - **TextBlob** – Python library for basic NLP
 - **SQL** – Used for data wrangling and analytics
